@@ -7,16 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hero Comics</h1>
-    <p>Onde os hérois nascem</p>
+    <h1>One Gadgets</h1>
+    <p>remember, it's not the gun, but the man who uses it</p>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
